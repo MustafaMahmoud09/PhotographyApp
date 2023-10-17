@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PotoApp</string>
+    <string name="start_cover">start cover</string>
+    <string name="poto">Poto</string>
+    <string name="get_started">Get Started</string>
+    <string name="share_capture">Share your capture with Poto Gallery.</string>
+    <string name="explore_capture">Explore your Capture.</string>
+    <string name="today_capture">Today\'s capture</string>
+    <string name="share_your_moment">Let\'s share your moment</string>
+</resources>
